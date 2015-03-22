@@ -7,4 +7,4 @@ g1 += c
 type(g+c)
 type(c)
 a = animate([g,g1,g,g1,g+g1,g,g1])
-a.show(delay=20)
+a.show()
